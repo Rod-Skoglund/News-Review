@@ -17,3 +17,9 @@ body {
 main {
   flex: 1 0 auto;
 }
+
+#info-notice {
+  padding: 10px 5px;
+  background: lightblue;
+  width: 100%;
+}
