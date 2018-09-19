@@ -1,4 +1,4 @@
-# :newspaper: Fox News Review :trollface:
+# Fox News Review
 A `Node.js` &amp; `MongoDB` webapp that web-scrapes news data from [Fox News](http://www.foxnews.com/) and allows users to add comments about what they have read. Users can also delete unwanted comments.
 
 Please check out the deployed version in Heroku [here](http://<TBD>.herokuapp.com/)!
