@@ -1,0 +1,19 @@
+/* ************************************************************ */
+/* Program: News-Review                                         */
+/* Authors: Rod Skoglund                                        */
+/* File: style.css                                              */
+/* Description: Defines styles used in the app                  */
+/* ************************************************************ */
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+
+  /*Add Background Texture*/
+  background-image: url('../images/newspaper-texture.jpg');
+}
+
+main {
+  flex: 1 0 auto;
+}
