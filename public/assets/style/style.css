@@ -20,6 +20,12 @@ main {
 
 #info-notice {
   padding: 10px 5px;
-  background: lightblue;
+  background-color: lightblue;
+  width: 100%;
+}
+
+#instructions {
+  padding: 5px;
+  background-color: lightgrey;
   width: 100%;
 }

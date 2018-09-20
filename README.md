@@ -23,19 +23,19 @@ If you wish to clone the app down to your local machine...
 
 ## Screenshots
 #### The `/articles` route renders all the news articles
-![All Articles](TBD)
+![All Articles](/public/assets/images/article.png)
 
 #### Click on the globe icon to view the content.
-![Article Content](TBD)
+![Article Content](/public/assets/images/content.png)
 
 #### Click the Chat Bubble icon to add a comment via the `/add/comment/:id` post route
-![Add Comment](TBD)
+![Add Comment](/public/assets/images/add-comment.png)
 
 #### Click the Thumbs up/down icon to view comments
-![View Comment](TBD)
+![View Comment](/public/assets/images/view-comment.png)
 
 #### Click the Delete button to remove rude comments via the `remove/comment/:id` route
-![Delete Comment](TBD)
+![Delete Comment](/public/assets/images/delete-comment.png)
 
 #### Comment that the web scraping occurs on the `/scrape` route.
 #### On visiting the index route, `/`, express redirects to `/scrape` and then `/articles` routes
